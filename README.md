@@ -9,7 +9,7 @@ Our motivation to build this bot is to preserve our green earth and save water b
  
 • Arduino UNO • 2	Motor Driver L298N •	12V Solenoidal Value •	1 Servo motor MG995 •	3 High Torque Stepper Motors•	ULN2003 •	12V DC Power Adapter •	Relimates •	Jumper Wires • LM317T Voltage Divider •	Resistors • Breadboard • DST • 15cm and 50cm Slider • Wooden Base (dia.52cm) • Wooden Circular Rim(inner dia. and outer dia.) • 5m Square Channel • L Channels • Rack And Pinion • Aluminium Plate • Aluminium Sheet • Hollow Circular Rod • Motor Mount • Some 3d printed Parts 
  
- <b>Software:<b>
+ <b>Software:</b>
  
 •	Arduino IDE
 
