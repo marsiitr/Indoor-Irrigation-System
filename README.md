@@ -3,12 +3,55 @@
 # Abstract
 Our motivation to build this bot is to preserve our green earth and save water by changing the conventional way of plantation.  
 
+# Team Members
+<ul>
+<li ><a href="https://www.facebook.com/people/Nitin-Yadav/100002014363690">Nitin Yadav</a></li>
+<li><a href="https://www.facebook.com/utkarshdeepak23">Utkarsh Deepak</a></li>
+<li><a href="https://www.facebook.com/tathagat.chaurasiya">Tathagat Chaurasiya</a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100004414771823">Ashish Kumar</a></li>
+<li><a href="">Abhishek Mishra</a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100011648292342">Rahul Yadav</a></li>
+</ul>
+
+# Mentors
+<ul>
+<li><a href="https://www.facebook.com/profile.php?id=100003364416121">Mohit Gupta</a></li>
+<li><a href="https://www.facebook.com/prasants021">Prashant Shekhar Singh</a></li>
+<li><a href="https://www.facebook.com/clickonshivam">Shivam Parashar</a></li>
+<li><a href="https://www.facebook.com/pritam6505">Pritam Kumar</a></li>
+<li><a href="https://www.facebook.com/pankajmindfreak">Pankaj Kumar Singh</a></li>
+</ul>
+
 # Pre-Requisites
  
  <b>Hardware:</b>
- 
-• Arduino UNO • 2	Motor Driver L298N •	12V Solenoidal Value •	1 Servo motor MG995 •	3 High Torque Stepper Motors•	ULN2003 •	12V DC Power Adapter •	Relimates •	Jumper Wires • LM317T Voltage Divider •	Resistors • Breadboard • DST • 15cm and 50cm Slider • Wooden Base (dia.52cm) • Wooden Circular Rim(inner dia. 980mm and outer dia. 1080mm) • 5m Square Channel • L Channels • Rack And Pinion • Aluminium Plate • Aluminium Sheet • Hollow Circular Rod • Motor Mount • Some 3d printed Parts 
- 
+<ol>
+<li>Arduino UNO</li>
+<li>2	Motor Driver L298N</li>
+<li>12V Solenoidal Value</li>
+<li>1 Servo motor MG995</li>
+<li>3 High Torque Stepper Motors</li>
+<li>ULN2003</li>
+<li>12V DC Power Adapter</li>
+<li>Relimates</li>
+<li>Jumper Wires</li>
+<li>LM317T Voltage Divider</li>
+<li>Resistors</li>
+<li>Breadboard</li>
+<li>DST</li>
+<li>15cm and 50cm Slider</li>
+<li>Wooden Base (dia.52cm)</li>
+<li>Wooden Circular Rim(inner dia. 980mm and outer dia. 1080mm)</li>
+<li>5m Square Channel</li>
+<li>L Channels</li>
+<li>Rack And Pinion</li>
+<li>Aluminium Plate</li>
+<li>Aluminium Sheet</li>
+<li>Hollow Circular Rod</li>
+<li>Motor Mount</li>
+<li>Some 3d printed Parts</li> 
+</ol>
+
  <b>Software:</b>
  
 •	<a href ="https://www.arduino.cc/en/main/software">Arduino IDE</a>
