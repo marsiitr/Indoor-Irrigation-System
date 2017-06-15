@@ -74,9 +74,9 @@ Our motivation to build this bot is to preserve our green earth and save water b
 <li><p>The motor for movement of slider on the horizontal arm is mounted through a motor mount (made of ABS/PPS).</p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/14.jpg"></div></li>
 <li><p>At the vacant side of the arm, whole of the electronic system is mounted. To power the model, the adapter wire is passed through the middle rod. </p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/15.jpg"></div></li>
 <li>On the aluminum plate in the middle, opposite to the stepper motor, a solenoidal valve is fixed to control the flow of the water.</li>
-<li><p>Boundary of metal sheet is made to support soil.</p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/17.jpg"></div></li>
+<li><p>Boundary of metal sheet is made to support soil.</p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/17.1.jpg"></div></li>
 <li>The water is provided through a container at a certain height higher than the arm to the solenoidal valve.</li>
-<li><p>After the whole model is made, the whole weight is about 23-25 kg.</p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/19.jpg"></div></li>
+<li><p>After the whole model is made, the whole weight is about 23-25 kg.</p><div><img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/solidworks%20images/19.1.jpg"></div></li>
 </ol>
 
 # Results  
