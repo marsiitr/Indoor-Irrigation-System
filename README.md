@@ -58,7 +58,7 @@ Our motivation to build this bot is to preserve our green earth and save water b
 
 # D.I.Y. Steps From Scratch
 <ol>
-<li>A wooden base of 104cm diameter is chosen as the base for the whole model. A cavity (diameter) is made so that a rod can be placed to support the moving arm.</li>
+<li>A wooden base of 104cm diameter is chosen as the base for the whole model. A cavity (diameter) is made so that a rod can be placed to support the moving arm.<img src="https://github.com/marsiitr/Indoor-Irrigation-System/blob/master/Images/solidworks%20images/1.PNG?raw=true" alt="Smiley face" height="250" width="250"></li>
 <li>6 square channels of length 50cm are mounted vertically on the wooden base with the help of L-channel to give them a rigid grip on the base. Every square channel has 3 L-channel attached to it on the base and 2 on its top so that the circular rim is fixed firmly and does not move when the arm rotates on it. This is important for a precise movement. </li>
 <li>To give support to the moving arm, a rod of 51.4 cm is fixed on the base with a diameter of 3.17cm.</li>
 <li>A ball bearing of the same inner diameter as that of the rod is fixed on the rod so that the arm can rotate.</li>
