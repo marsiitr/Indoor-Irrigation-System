@@ -56,6 +56,29 @@ Our motivation to build this bot is to preserve our green earth and save water b
  
 •	<a href ="https://www.arduino.cc/en/main/software">Arduino IDE</a>
 
+# D.I.Y. Steps From Scratch
+<ol>
+<li>A wooden base of 104cm diameter is chosen as the base for the whole model. A cavity (diameter) is made so that a rod can be placed to support the moving arm.</li>
+<li>6 square channels of length 50cm are mounted vertically on the wooden base with the help of L-channel to give them a rigid grip on the base. Every square channel has 3 L-channel attached to it on the base and 2 on its top so that the circular rim is fixed firmly and does not move when the arm rotates on it. This is important for a precise movement. </li>
+<li>To give support to the moving arm, a rod of 51.4 cm is fixed on the base with a diameter of 3.17cm.</li>
+<li>A ball bearing of the same inner diameter as that of the rod is fixed on the rod so that the arm can rotate.</li>
+<li>An aluminum plate of about 1cm thickness is used to make a rectangular plate of about 11cm*30 cm, on which, whole of the arm is to be mounted. This aluminum plate has a circular cavity in which the bearing is fitted. </li>
+<li>The arm has two square channels of 96cm on which a cardboard sheet is mounted to have a platform for rest of the mechanism</li>
+<li>The rim is placed on the vertical square channels and fixed by screwing it to the 2 L-channels.</li>
+<li>A stepper motor (with a wheel) is fixed at one end of the arm to provide the circular motion to the arm. The motor is mounted on the cardboard sheet with a motor mount.</li>
+<li>A linear slider of 50cm is screwed on the cardboard sheet for the linear movement of the seeding mechanism. At the end of slider, 2 L-channel are fixed with castor wheels attached at their bottom to provide a smooth movement to the slider despite of the weight of vertical mechanism.</li>
+<li>A rack of 40cm is attached on the slider to move it through a stepper motor.</li>
+<li>To support the vertical mechanism, a wooden sheet of 15cm*15 cm is used and is fixed on the 2 L-channels with the help of screws.</li>
+<li>In the vertical mechanism, a slider of 15cm is fixed on the wooden sheet and a rack of 25cm is wooden sheet through a u-shaped motor mount (made of ABS/PPS, for 3D printing you can directly access the solid works file provided) </li>
+<li>For seeding, a conical flask with a cylindrical top, the seed storage, (made of ABS/PPS) is used in which a servo motor is fixed. The servo motor is used to have a periodic opening and closing of a hole in the storage.</li>
+<li>The motor for movement of slider on the horizontal arm is mounted through a motor mount (made of ABS/PPS).</li>
+<li>At the vacant side of the arm, whole of the electronic system is mounted. To power the model, the adapter wire is passed through the middle rod. </li>
+<li>On the aluminum plate in the middle, opposite to the stepper motor, a solenoidal valve is fixed to control the flow of the water.</li>
+<li>Boundary of metal sheet is made to support soil.</li>
+<li>The water is provided through a container at a certain height higher than the arm to the solenoidal valve.</li>
+<li>After the whole model is made, the whole weight is about 23-25 kg.</li>
+</ol>
+
 # Results  
 1. The mechanism used in the Bot is very effective in saving water and using it efficiently both position and time-wise.
 2. The seed bowing mechanism gives us a platform to use the space on the used patch of land efficiently. It can used to accurately place the seed in the position we want to and that is needed to.
