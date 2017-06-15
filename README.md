@@ -11,7 +11,7 @@ Our motivation to build this bot is to preserve our green earth and save water b
  
  <b>Software:</b>
  
-•	Arduino IDE
+•	<a href ="https://www.arduino.cc/en/main/software">Arduino IDE</a>
 
 # Results  
 1. The mechanism used in the Bot is very effective in saving water and using it efficiently both position and time-wise.
