@@ -81,6 +81,13 @@ Our motivation to build this bot is to preserve our green earth and save water b
 
 # Instruction on using source code
  Our overall code consists of three sub files. One of them is the <a href="https://github.com/marsiitr/Indoor-Irrigation-System/blob/master/main_code/main_code.ino">main file</a> and others consists of only functions or methods definitons which are called/used in the main file.All the subfiles have been uploaded in github. First, you have to download them all and put them in a folder that has the same name as that of the main file( In our case, "main_code" is the main file).Once you have done this and connected the hardware properly, then you just have to upload the main file to the arduino board and you are ready to go.
+# Photos
+<div>
+<img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/Project%20Images/ori1.jpg"><br/>
+<img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/Project%20Images/ori2.jpg"><br/>
+<img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/Project%20Images/ori3.jpg"><br/>
+<img src="https://raw.githubusercontent.com/marsiitr/Indoor-Irrigation-System/master/Images/Project%20Images/ori4.jpg">
+</div>
 
 # Results  
 1. The mechanism used in the Bot is very effective in saving water and using it efficiently both position and time-wise.
